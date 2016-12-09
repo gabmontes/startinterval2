@@ -46,7 +46,7 @@
     "chai": "^3.5.0",
     "eslint": "^3.8.1",
     "mocha": "^3.1.2",
-    "nyc": "^8.3.1",
+    "nyc": "^10.0.0",
     "sinon": "^1.17.6"
   },
   "homepage": "https://github.com/gabmontes/startinterval2#readme",
