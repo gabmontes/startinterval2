@@ -50,9 +50,6 @@
     "sinon": "^3.0.0"
   },
   "homepage": "https://github.com/gabmontes/startinterval2#readme",
-  "bin": {
-    "startinterval2": "command.js"
-  },
   "directories": {
     "test": "test"
   }
