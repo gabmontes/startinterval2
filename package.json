@@ -1,6 +1,6 @@
 {
   "name": "startinterval2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calls a function immediately and repeatedly after a fixed delay",
   "keywords": [
     "setimterval",
